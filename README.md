@@ -37,7 +37,8 @@ A local-first desktop app (Electron) that brings together everything a developer
 - ✅ **Tasks** — Kanban board + list views
 - 🔐 **Passwords** — local vault encrypted with AES-256-GCM, master-password protected
 - 📝 **Docs** — nested markdown documentation
-- 📊 **Metrics** — development analytics and dashboards
+- 📊 **Overview** — your data, progress burn-up, system summary, and apps and databases in production at a glance
+- 🖥️ **System** — clean up your dev machine safely (anything removed goes to a restorable quarantine), find duplicates, and see your installed runtimes and global packages
 
 Everything runs **offline** and stays **on your machine** — no account, no cloud required.
 
